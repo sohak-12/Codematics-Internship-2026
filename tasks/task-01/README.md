@@ -10,7 +10,7 @@ The core challenge of this task was to maintain a professional layout using **pu
 To meet the project requirements, I focused on the following:
 
 * **Semantic-Only Structure:** I used descriptive HTML5 tags to define the page regions. Per the task instructions, **no `<div>` tags** were used in this project.
-    * `<header>` & `<nav>` for the top section.
+    * `<header>` & `<nav>` for the top section. 
     * `<main>` for the primary content.
     * `<aside>` for the sidebars.
     * `<footer>` for the bottom section.
