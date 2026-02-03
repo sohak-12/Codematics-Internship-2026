@@ -33,7 +33,7 @@ To ensure clarity and scalability, the repository is organized as follows:
 
 ### **Task 05: Keefer Law Firm Website Replica**
 * **Focus:** Professional-grade responsiveness.
-* **Challenge:** A high-fidelity clone built using **Tailwind CSS** and **Pure HTML/CSS**. Includes complex serif typography, textured backgrounds, and a mobile-first philosophy.
+* **Challenge:** A high-fidelity clone built using **Tailwind CSS** and **Pure HTML/CSS**. Includes complex serif typography, textured backgrounds, and a mobile-first philosophy. 
 
 > *Note: This repository is a work in progress. New tasks are added as the internship continues.*
 
