@@ -28,14 +28,14 @@ Since this project is part of a larger repository, follow these steps to view it
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 * **HTML5:** For content and sectioning.
 * **CSS3:** For styling, Flexbox layouts, and typography.
 * **Asset Management:** Organized folder structure for branding and preview images.
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 This task was a great exercise in managing **relative file paths** and understanding how to structure a page around visual assets.
 It reinforced the importance of folder organization—keeping images, styles, and scripts separate but connected is key to a scalable project.
 
