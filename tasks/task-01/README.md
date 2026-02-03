@@ -25,19 +25,16 @@ To meet the project requirements, I focused on the following:
 3.  Open `t1.html`.
 4.  Use the **Live Server** extension in VS Code or simply drag the file into any web browser to view the layout.
 
-## 🧩 Technologies Used
+## Technologies Used
 * **HTML5:** For semantic document structure.
 * **CSS3:** For layout positioning and Flexbox alignment.
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 This task reinforced my understanding of how semantic tags behave differently than generic containers. It taught me how to create a complex, multi-column layout 
 while keeping the code meaningful for search engines and screen readers.
 
 ---
 
-**Author:** **Soha Muzammil**  Development Intern
-
-The task focuses on understanding page structure and basic layout concepts.
-Author
+**Author:** **Soha Muzammil** *Intern at Codematics*
