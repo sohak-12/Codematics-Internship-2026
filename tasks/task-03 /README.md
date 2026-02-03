@@ -30,13 +30,13 @@ This task is contained within a subfolder of the main repository:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 * **HTML5:** For the semantic form structure and content.
 * **CSS3:** For the two-column layout, custom form styling, and `clip-path` geometry.
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 This project was a deep dive into **Form UI Design**. I learned how to style native HTML form elements beyond their defaults while 
 keeping the layout structurally sound. Using `clip-path` was particularly rewarding, as it added a modern architectural feel to a
 standard data-entry page.
