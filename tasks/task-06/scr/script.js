@@ -9,7 +9,7 @@ const mobileLightIcon = document.getElementById(
 
 const btn = document.getElementById("mobile-menu-button");
 const menu = document.getElementById("mobile-menu");
-
+ 
 const themeCheck = () => {
   if (
     localStorage.getItem("color-theme") === "light" ||
