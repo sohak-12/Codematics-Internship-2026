@@ -4,7 +4,7 @@ starting from fundamental HTML structures to complex, responsive web designs.
 
 ---
 
-## Repository Structure
+## Repository Structure 
 
 To ensure clarity and scalability, the repository is organized as follows:
 * **Task-Specific Folders:** Each milestone is contained in its own directory.
@@ -13,7 +13,7 @@ To ensure clarity and scalability, the repository is organized as follows:
 
 ---
 
-## Tasks Overview
+## Tasks Overview 
 
 ### **Task 01: Basic web page layout using semantic HTML**
 * **Focus:** Core structure and pixel alignment.
