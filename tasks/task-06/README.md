@@ -2,14 +2,14 @@
 
 ## Overview
 This project involved the development of a comprehensive, high-performance **Portfolio Website**. The goal was to move beyond static layouts by creating
-a dynamic user experience featuring a fully functional **Dark Mode toggle**, persistent theme storage, and a complex, multi-section responsive structure.
+a dynamic user experience featuring a fully functional **Light Mode toggle**, persistent theme storage, and a complex, multi-section responsive structure.
 The design is built with a "pixel-perfect" mindset, replicating a professional developer's portfolio that highlights technical skills, professional 
 history, and social proof through a modern, clean interface.
 
 ---
 
 ## Key Features & Implementation
-* **Dynamic Theme Switching:** * Built a robust **Dark Mode** using Tailwind’s `dark:` variants.
+* **Dynamic Theme Switching:** * Built a robust **Light Mode** using Tailwind’s `Light:` variants.
     * Integrated `localStorage` and system preference detection to ensure the user's theme choice persists across browser sessions.
 * **Sticky & Adaptive Navigation:** * A sticky navbar that remains accessible during scrolling.
     * Features a custom mobile hamburger menu and a dedicated "Download CV" action button.
