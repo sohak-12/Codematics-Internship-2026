@@ -36,9 +36,9 @@ To ensure clarity and scalability, the repository is organized as follows:
 * **Challenge:** A high-fidelity clone built using **Tailwind CSS** and **Pure HTML/CSS**. Includes complex serif typography, textured backgrounds, and a mobile-first philosophy. 
 
 ### **Task 06: Portfolio Website**
-**Focus:** Logic-based styling and user experience.
-**Challenge:** Building a modern portfolio with a functional Light Mode toggle. Used JavaScript for theme persistence (localStorage) and Tailwind CSS for seamless transitions.
-               Features a sticky navbar, skills grid, and a responsive experience timeline.
+* **Focus:** Logic-based styling and user experience.
+* **Challenge:** Building a modern portfolio with a functional Light Mode toggle. Used JavaScript for theme persistence (localStorage) and Tailwind CSS for seamless transitions.
+                 Features a sticky navbar, skills grid, and a responsive experience timeline.
 
 > *Note: This repository is a work in progress. New tasks are added as the internship continues.*
 
